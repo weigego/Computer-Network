@@ -1,4 +1,10 @@
 ### 4-layer model
+sdf
+d
+fs
+df
+sd
+
 
 ### IP service model
 To use internet, we must use **Internet Protocol (IP)**.
